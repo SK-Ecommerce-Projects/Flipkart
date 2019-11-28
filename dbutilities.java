@@ -1,1 +1,4 @@
-hello this is new line writing from dev branch
+hello this file is creating from master branch
+
+new file in this project
+>>>>>>> master
